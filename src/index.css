@@ -89,3 +89,8 @@ select {
     -ms-transition: all 300ms ease-in;
     -o-transition: all 300ms ease-in;
 }
+
+/* General Styles */
+body {
+    font-family: sans-serif;
+}
